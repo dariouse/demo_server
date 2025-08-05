@@ -1,4 +1,4 @@
-package com.okestro.demo_server;
+package server.demo_server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

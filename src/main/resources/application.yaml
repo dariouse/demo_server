@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: demo_server
+
+server:
+  port: 8082
+  tomcat:
+    threads:
+      max: 10
+    connection-timeout: 1000000
